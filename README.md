@@ -1,4 +1,4 @@
-# sample-compiler
+# sample-compiler 重庆理工大学编译原理课程设计
 重庆理工大学编译原理课程设计 sample编译器
 本编译器完成了：
   1、基于状态转换图的手动词法分析器  
